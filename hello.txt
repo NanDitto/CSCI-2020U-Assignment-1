@@ -1,0 +1,2 @@
+BONUS POINTS: You can get one bonus point if you will incorporate advanced techniques about activity diagrams: partitioning, rake symbol, signals (from today's lecture).
+If you cannot find rake symbol in Visio, you can use stereotype "rake".
